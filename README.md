@@ -24,4 +24,4 @@ This project demonstrates automated testing of a web application using Selenium 
 - Improved test reliability
 
 ## 👤 Author
-Thenraja K
+Mohana Priya.M
